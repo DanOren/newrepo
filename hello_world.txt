@@ -1,16 +1,13 @@
 Lorem ipsum dolor sit amet,
-<<<<<<< HEAD
 consecteuer adipiscing elit.
 commodo ligula eget dolor.
-hello hello hell
-asd aklhjdlkad
 aenean commodo ligula eget dolor.
-aenean massa.i had thisasdkha
+aenean massa.
+<<<<<<<<<<<<>>>>>>>>>>>>>>>>><<<<<<<<>>>>>>>>>
 cum sociis natoque penatibus et magnis dis parturient montes,
 agnis dis parturient montes,
->>>>>>> 7705dbbb6e6f9895468ba8041155bd527df11ec7
 nascetur ridiculis mus.
 donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 nulla consequat masdasdasdnim.
 donec pede justo, fringilla vel, aliquet nec, vluputate eget, arcu.
-asmdhlakdhklajsdlkajsdlk
+
