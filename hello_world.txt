@@ -1,8 +1,15 @@
 Lorem ipsum dolor sit amet,
+<<<<<<< HEAD
 consecteuer adipiscing elit.
 commodo ligula eget dolor.
 massa.i had this
 cum sociis natoque penatibus et magnis dis parturient montes,
+=======
+consecteuer adipiscing eeelit.
+aeneddan commodo ligula egeted dolor.
+aeneddan massa.i had this
+cum sodciis natoque penatibus et magnis dis parturient montes,
+>>>>>>> 7705dbbb6e6f9895468ba8041155bd527df11ec7
 nascetur ridiculis mus.
 donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 nulla consequat massa quis enim.
